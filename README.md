@@ -1,6 +1,6 @@
 # Bulma Template (React)
 
-This is the React version of my [Bulma Template](https://github.com/themattbook/bulma-template);
+This is the React version of my [Bulma Template](https://github.com/themattbook/bulma-template)
 
 ![website preview](https://github.com/themattbook/bulma-template/blob/main/assets/website-image.jpeg)
 
